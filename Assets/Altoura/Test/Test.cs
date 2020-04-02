@@ -7,12 +7,8 @@ public class Test : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.LogError("Hello world. This is Altoura package manager Test 01 ... Please wait for further update");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
